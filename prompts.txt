@@ -1,0 +1,13 @@
+traduza o site para PT-BR
+segue os links para inclusão 
+https://www.instagram.com/clauan.rocha/ https://www.linkedin.com/in/clauan-rocha/ github.com/ClauanRocha
+preciso colocar uma foto minha ao lado da apresentação, utilize a mesma foto de perfil do Linkedin
+não está dando certo, esse é o link para a foto https://photos.app.goo.gl/npz4ADDjJuMBqvVF7
+não está dando certo, a imagem está na raiz do projeto como chamo ?
+retorne o que era anteriormente, sem foto minha
+na foto de perfil coloque algo voltado para desenvolvedor
+coloque uma foto no inicio da internet
+ajuste os cards de "tecnologias que Utilizo" para mais e todas no mesmo padrão
+retorna o que estava antes 
+coloque uma foto relacionada a desenvolvimento na parte incial do site, o restante pode persistir
+coloque uma foto relacionada a desenvolvimento na parte incial do site, o restante pode persistir
